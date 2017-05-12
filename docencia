@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+-<docencia xsi:schemaLocation="http://www.prueba.es/persona persona.xsl http://www.prueba.es/asignatura asignatura.xsl" xmlns:asi="http://www.prueba.es/asignatura" xmlns:per="http://www.prueba.es/persona" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+-<per:persona>
+
+
+-<per:datos>
+
+<per:nombre>Pepe</per:nombre>
+
+<per:apellidos>Garcia</per:apellidos>
+
+<per:dni>25390952</per:dni>
+
+</per:datos>
+
+<per:comentario>buena gente...</per:comentario>
+
+</per:persona>
+
+
+-<asi:asignatura>
+
+<asi:nombre>Marcas</asi:nombre>
+
+<asi:horas>4</asi:horas>
+
+<asi:profesor>Sonia Aranda</asi:profesor>
+
+</asi:asignatura>
+
+</docencia>
